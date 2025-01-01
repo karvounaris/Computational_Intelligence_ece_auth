@@ -1,4 +1,4 @@
-# 🤖 Computational Intelligence Project
+# 🤖 Computational Intelligence Project (Fuzzy Systems)
 
 ## 📖 Overview
 This repository contains three distinct assignments completed as part of the Computational Intelligence course at Aristotle University of Thessaloniki. Each assignment applies different computational intelligence methods, demonstrating their capabilities and performance in control and modeling tasks. 
