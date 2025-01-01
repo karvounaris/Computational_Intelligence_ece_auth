@@ -1,0 +1,150 @@
+
+ANFIS info:
+	Number of nodes: 275
+	Number of linear parameters: 133
+	Number of nonlinear parameters: 228
+	Total number of parameters: 361
+	Number of training data pairs: 12758
+	Number of checking data pairs: 4252
+	Number of fuzzy rules: 19
+
+
+Start training ANFIS ...
+
+1 	 17.0722 	 17.4052
+2 	 16.9555 	 17.1718
+3 	 16.9825 	 17.2453
+4 	 16.8173 	 17.0519
+5 	 16.8822 	 17.1341
+Step size decreases to 0.009000 after epoch 6.
+6 	 16.7175 	 16.9751
+7 	 16.7688 	 17.0549
+8 	 16.6111 	 16.8954
+9 	 16.6464 	 16.9701
+Step size decreases to 0.008100 after epoch 10.
+10 	 16.5395 	 16.8414
+11 	 16.5539 	 16.8915
+12 	 16.4613 	 16.7652
+13 	 16.4627 	 16.7994
+Step size decreases to 0.007290 after epoch 14.
+14 	 16.4064 	 16.7037
+15 	 16.3943 	 16.7113
+16 	 16.3373 	 16.617
+Step size increases to 0.008019 after epoch 17.
+17 	 16.3239 	 16.622
+18 	 16.2905 	 16.5605
+19 	 16.285 	 16.5853
+20 	 16.2471 	 16.5223
+Step size increases to 0.008821 after epoch 21.
+21 	 16.226 	 16.5364
+22 	 16.2029 	 16.4921
+23 	 16.1896 	 16.5211
+24 	 16.1567 	 16.4634
+Step size increases to 0.009703 after epoch 25.
+25 	 16.1274 	 16.4719
+26 	 16.1043 	 16.4273
+27 	 16.0809 	 16.4408
+28 	 16.0407 	 16.3776
+Step size increases to 0.010673 after epoch 29.
+29 	 15.9897 	 16.3574
+30 	 15.9321 	 16.2976
+31 	 15.8827 	 16.277
+32 	 15.8529 	 16.2167
+Step size increases to 0.011741 after epoch 33.
+33 	 15.8 	 16.1611
+34 	 15.773 	 16.1196
+35 	 15.7576 	 16.1165
+36 	 15.7132 	 16.0606
+Step size increases to 0.012915 after epoch 37.
+37 	 15.6909 	 16.0492
+38 	 15.65 	 16.0011
+39 	 15.6284 	 16.0026
+40 	 15.5272 	 15.9126
+Step size increases to 0.014206 after epoch 41.
+41 	 15.4447 	 15.8841
+42 	 15.4399 	 15.8638
+43 	 15.431 	 15.8847
+44 	 15.3898 	 15.8091
+Step size increases to 0.015627 after epoch 45.
+45 	 15.3579 	 15.79
+46 	 15.3392 	 15.7413
+47 	 15.3207 	 15.7661
+48 	 15.2744 	 15.6973
+Step size increases to 0.017189 after epoch 49.
+49 	 15.2407 	 15.6993
+50 	 15.1881 	 15.6334
+51 	 15.1754 	 15.6517
+52 	 15.1338 	 15.5971
+Step size increases to 0.018908 after epoch 53.
+53 	 15.1117 	 15.5781
+54 	 15.074 	 15.5235
+55 	 15.0806 	 15.5741
+56 	 15.0127 	 15.4754
+57 	 15.0109 	 15.542
+58 	 14.9408 	 15.461
+59 	 14.9507 	 15.5574
+60 	 14.8947 	 15.4516
+61 	 14.919 	 15.5121
+Step size decreases to 0.017018 after epoch 62.
+62 	 14.8634 	 15.414
+63 	 14.8929 	 15.4718
+64 	 14.8141 	 15.3771
+65 	 14.8458 	 15.4059
+Step size decreases to 0.015316 after epoch 66.
+66 	 14.8046 	 15.4034
+67 	 14.8259 	 15.3988
+68 	 14.7657 	 15.3492
+69 	 14.7864 	 15.3767
+Step size decreases to 0.013784 after epoch 70.
+70 	 14.7799 	 15.405
+71 	 14.7707 	 15.3618
+72 	 14.7356 	 15.3675
+73 	 14.7609 	 15.3581
+74 	 14.7238 	 15.3719
+75 	 14.7492 	 15.3493
+Step size decreases to 0.012406 after epoch 76.
+76 	 14.7121 	 15.367
+77 	 14.7345 	 15.3482
+78 	 14.69 	 15.347
+79 	 14.7138 	 15.3615
+Step size decreases to 0.011165 after epoch 80.
+80 	 14.6831 	 15.3638
+81 	 14.6978 	 15.3509
+82 	 14.6632 	 15.356
+83 	 14.6824 	 15.3628
+Step size decreases to 0.010049 after epoch 84.
+84 	 14.6555 	 15.365
+85 	 14.6707 	 15.3783
+86 	 14.6394 	 15.3688
+87 	 14.656 	 15.3878
+Step size decreases to 0.009044 after epoch 88.
+88 	 14.6336 	 15.3861
+89 	 14.6479 	 15.3686
+90 	 14.6198 	 15.3851
+91 	 14.6368 	 15.3795
+Step size decreases to 0.008139 after epoch 92.
+92 	 14.6165 	 15.4012
+93 	 14.6328 	 15.3535
+94 	 14.6058 	 15.3964
+95 	 14.6295 	 15.3457
+Step size decreases to 0.007325 after epoch 96.
+96 	 14.6009 	 15.3905
+97 	 14.6242 	 15.3447
+98 	 14.5899 	 15.3805
+99 	 14.6161 	 15.3375
+Step size decreases to 0.006593 after epoch 100.
+100 	 14.5869 	 15.377
+
+Designated epoch number reached. ANFIS training completed at epoch 100.
+
+Minimal training RMSE = 14.5869
+Minimal checking RMSE = 15.3375
+            Optimal Model
+            _____________
+
+    MSE         225.79   
+    RMSE        15.026   
+    NMSE       0.19591   
+    NDEI       0.44262   
+    R2         0.80409   
+

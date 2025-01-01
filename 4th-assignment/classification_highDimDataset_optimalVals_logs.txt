@@ -1,0 +1,169 @@
+
+ANFIS info:
+	Number of nodes: 123
+	Number of linear parameters: 5
+	Number of nonlinear parameters: 100
+	Total number of parameters: 105
+	Number of training data pairs: 6900
+	Number of checking data pairs: 2300
+	Number of fuzzy rules: 5
+
+
+Start training ANFIS ...
+
+1 	 1.09199 	 1.10013
+2 	 1.08883 	 1.09578
+3 	 1.08706 	 1.09271
+4 	 1.08668 	 1.09321
+Step size increases to 0.011000 after epoch 5.
+5 	 1.08548 	 1.0903
+6 	 1.08545 	 1.09182
+7 	 1.08445 	 1.08939
+8 	 1.08428 	 1.09018
+Step size increases to 0.012100 after epoch 9.
+9 	 1.08346 	 1.08925
+10 	 1.08365 	 1.08873
+11 	 1.08333 	 1.08998
+12 	 1.08282 	 1.08799
+13 	 1.08259 	 1.08902
+Step size increases to 0.013310 after epoch 14.
+14 	 1.0821 	 1.08765
+15 	 1.08191 	 1.08821
+16 	 1.08212 	 1.08783
+17 	 1.08137 	 1.08787
+18 	 1.08157 	 1.08746
+Step size decreases to 0.011979 after epoch 19.
+19 	 1.08091 	 1.08759
+20 	 1.08097 	 1.08707
+21 	 1.07972 	 1.08663
+22 	 1.08023 	 1.08647
+Step size decreases to 0.010781 after epoch 23.
+23 	 1.07919 	 1.08644
+24 	 1.07948 	 1.08597
+25 	 1.07808 	 1.0856
+26 	 1.07861 	 1.08533
+Step size decreases to 0.009703 after epoch 27.
+27 	 1.07749 	 1.08546
+28 	 1.07776 	 1.08484
+29 	 1.07634 	 1.08478
+30 	 1.0767 	 1.08422
+Step size decreases to 0.008733 after epoch 31.
+31 	 1.07558 	 1.08488
+32 	 1.07562 	 1.08376
+33 	 1.07419 	 1.08447
+34 	 1.07425 	 1.08324
+Step size decreases to 0.007859 after epoch 35.
+35 	 1.0732 	 1.08514
+36 	 1.07303 	 1.08297
+37 	 1.07171 	 1.08506
+38 	 1.07189 	 1.08278
+39 	 1.07101 	 1.0858
+40 	 1.07119 	 1.08264
+Step size decreases to 0.007073 after epoch 41.
+41 	 1.0705 	 1.08599
+42 	 1.07068 	 1.08249
+43 	 1.0694 	 1.08504
+44 	 1.07014 	 1.08237
+Step size decreases to 0.006366 after epoch 45.
+45 	 1.06903 	 1.08506
+46 	 1.06971 	 1.08217
+47 	 1.06812 	 1.08417
+48 	 1.06922 	 1.08203
+Step size decreases to 0.005730 after epoch 49.
+49 	 1.06781 	 1.08416
+50 	 1.06881 	 1.0818
+51 	 1.06704 	 1.08336
+52 	 1.06832 	 1.08162
+Step size decreases to 0.005157 after epoch 53.
+53 	 1.06676 	 1.08333
+54 	 1.06791 	 1.08136
+55 	 1.0661 	 1.08262
+56 	 1.06741 	 1.08115
+Step size decreases to 0.004641 after epoch 57.
+57 	 1.06584 	 1.08257
+58 	 1.06701 	 1.08087
+59 	 1.06527 	 1.08193
+60 	 1.0665 	 1.08062
+Step size decreases to 0.004177 after epoch 61.
+61 	 1.06503 	 1.08186
+62 	 1.0661 	 1.08032
+63 	 1.06452 	 1.08127
+64 	 1.06561 	 1.08005
+Step size decreases to 0.003759 after epoch 65.
+65 	 1.06429 	 1.08118
+66 	 1.06522 	 1.07975
+67 	 1.06384 	 1.08064
+68 	 1.06474 	 1.07947
+Step size decreases to 0.003383 after epoch 69.
+69 	 1.06362 	 1.08053
+70 	 1.06437 	 1.07917
+71 	 1.06321 	 1.08003
+72 	 1.06393 	 1.07889
+Step size decreases to 0.003045 after epoch 73.
+73 	 1.06301 	 1.0799
+74 	 1.06358 	 1.0786
+75 	 1.06263 	 1.07944
+76 	 1.06318 	 1.07833
+Step size decreases to 0.002740 after epoch 77.
+77 	 1.06244 	 1.07931
+78 	 1.06286 	 1.07806
+79 	 1.0621 	 1.07888
+80 	 1.06249 	 1.0778
+Step size decreases to 0.002466 after epoch 81.
+81 	 1.06191 	 1.07874
+82 	 1.0622 	 1.07755
+83 	 1.0616 	 1.07835
+84 	 1.06187 	 1.07731
+Step size decreases to 0.002220 after epoch 85.
+85 	 1.06142 	 1.07821
+86 	 1.0616 	 1.07708
+87 	 1.06114 	 1.07785
+88 	 1.06131 	 1.07687
+Step size decreases to 0.001998 after epoch 89.
+89 	 1.06096 	 1.07772
+90 	 1.06107 	 1.07666
+91 	 1.06071 	 1.0774
+92 	 1.06081 	 1.07647
+Step size decreases to 0.001798 after epoch 93.
+93 	 1.06054 	 1.07727
+94 	 1.06059 	 1.07628
+95 	 1.06031 	 1.07698
+96 	 1.06036 	 1.07612
+Step size decreases to 0.001618 after epoch 97.
+97 	 1.06016 	 1.07687
+98 	 1.06017 	 1.07595
+99 	 1.05995 	 1.07661
+100 	 1.05997 	 1.07581
+
+Designated epoch number reached. ANFIS training completed at epoch 100.
+
+Minimal training RMSE = 1.05995
+Minimal checking RMSE = 1.07581
+          Optimal values model
+          ____________________
+
+    OA          0.36565       
+
+             Optimal values model
+             ____________________
+
+    PA(1)          0.92287       
+    PA(2)          0.22131       
+    PA(3)          0.26394       
+    PA(4)          0.25409       
+    PA(5)                0       
+
+             Optimal values model
+             ____________________
+
+    UA(1)             0.766      
+    UA(2)          0.058442      
+    UA(3)           0.58628      
+    UA(4)           0.45089      
+    UA(5)                 0      
+
+             Optimal values model
+             ____________________
+
+    K_hat          0.21077       
+
